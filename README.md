@@ -10,7 +10,7 @@ Install Visual Studio: Make sure you have Visual Studio installed on your system
 
 Clone the Repository: Clone the repository to my local machine using Git or download the zip file and extract it.
 
-https://github.com/aime-ishimwe/Programming_POE_Part2/tree/main?tab=readme-ov-file
+https://github.com/aime-ishimwe/FInal_Prog_POE
 
 Open Solution in Visual Studio: Open Visual Studio and navigate to File > Open > recipeApp pt3. 
 
